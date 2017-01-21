@@ -1,0 +1,10 @@
+print, Prints out the text enclosed in "" or '' to the console
+variables, used ot give names to valuse or strings
+=, an assignment indicator, i.e. first = 1 or second = "2nd"
+%d, %s, %r , Placeholder for a vaiable in a print statement used for formatting and making the print statement easire to understand, can be string (%s) or a number(%d) or the acutal value/ string (%r)
++ the print concatenate symbol, used to join two variables or strings in a print statement
+
+""" used to surround a block of text for printing or variable assignment
+strings, text that can be printed or mani
+pulated 
+integers, numbers with no deciaml places.
